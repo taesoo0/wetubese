@@ -1,0 +1,19 @@
+{
+  "name": "wetubese",
+  "version": "1.0.0",
+  "description": "watch videos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taesoo0/wetubese.git"
+  },
+  "author": "taesoo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taesoo0/wetubese/issues"
+  },
+  "homepage": "https://github.com/taesoo0/wetubese#readme"
+}
